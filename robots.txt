@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heyahquees.synack.blog/sitemap.xml
